@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BD9D321EFJ-E2"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-12-07-12:41:24)
+    (mountForm default
+        (footprintRef "SOIC127P600X100-8N")
+        (spec "System")
+    )
+)

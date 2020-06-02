@@ -1,0 +1,16 @@
+.BD9D321EFJ-E2 :1 ;ROHM - BD9D321EFJ-E2 - DC-DC Switching Buck Step Down Regulator, Adjustable, 4.5V-18Vin, 765mV-7Vout, 3Aout, HTSOP-8
+SOIC127P600X100-8N
+*STM PS
+*NGS
+*PLB 1="EN" 2="FB" 3="VREG" 4="SS" 5="GND" 6="SW" 7="BOOT" 8="VIN"
+*MXP 8
+*DFN BD9D321EFJ-E2
+~!Mouser Part Number (755-BD9D321EFJ-E2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD9D321EFJ-E2?qs=9Cg39qEKpi7kktUEjUojmg%3D%3D)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (BD9D321EFJ-E2)
+~!Link Datasheet (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd9d321efj-e.pdf)
+~!Height (1mm)
+~!3D_Model (BD9D321EFJ-E2)
+BD9D321EFJ-E2
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

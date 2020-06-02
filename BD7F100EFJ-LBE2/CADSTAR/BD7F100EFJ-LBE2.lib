@@ -1,0 +1,18 @@
+.BD7F100EFJ-LBE2 :1 ;Isolated Flyback Converter,3-40V HTSOPJ8 ROHM BD7F100EFJ-LBE2, Flyback DC-DC Converter, Adjustable, Maximum of 50 V, 8-Pin HTSOP-J8
+SOIC127P600X100-9N
+*STM U
+*NGS
+*PLB 1="AGND" 2="SDX/EN" 3="COMP" 4="REF" 5="FB" 6="PGND" 7="SW" 8="VIN" 9="EP"
+*MXP 9
+*DFN BD7F100EFJ-LBE2
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (BD7F100EFJ-LBE2)
+~!Mouser Part Number (755-BD7F100EFJ-LBE2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD7F100EFJ-LBE2?qs=5qbNLv0Tw5R6bjCk1UYqLw%3D%3D)
+~!RS Part Number (1234291)
+~!Link RS Price/Stock (https://uk.rs-online.com/web/p/products/1234291)
+~!Link Datasheet (http://docs-emea.rs-online.com/webdocs/1512/0900766b81512b4f.pdf)
+~!Height (1mm)
+~!3D_Model (BD7F100EFJ-LBE2)
+BD7F100EFJ-LBE2
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=BD9D321EFJ-E2
+PartCategory=Power Supply
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2020-02-08 11:59:10
+Downloaded=2020-05-17 23:27:21
+3D=Y

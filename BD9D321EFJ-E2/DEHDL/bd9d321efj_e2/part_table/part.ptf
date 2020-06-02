@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BD9D321EFJ_E2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "BD9D321EFJ-E2" (!) = "", "SOIC127P600X100-8N", "Small Outline Packages", "755-BD9D321EFJ-E2", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD9D321EFJ-E2?qs=9Cg39qEKpi7kktUEjUojmg%3D%3D", "ROHM - BD9D321EFJ-E2 - DC-DC Switching Buck Step Down Regulator, Adjustable, 4.5V-18Vin, 765mV-7Vout, 3Aout, HTSOP-8", "http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd9d321efj-e.pdf", "1 mm"
+END_PART
+
+END.
